@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003366</color>
+    <color name="colorPrimaryDark">#032241</color>
+    <color name="colorAccent">#124e89</color>
+    <color name="black">#000000</color>
+
+    <color name="color_top">#FFFFFF</color>
+
+    <color name="ContentBgColor">#E2E2E2</color>
+
+    <color name="TransBlack2">#8b000000</color>
+
+    <color name="GridTxtColor">#333333</color>
+
+    <color name="Green">#A4C651</color>
+    <color name="Red">#C65951</color>
+
+</resources>

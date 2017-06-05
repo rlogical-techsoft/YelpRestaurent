@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Find Restaurant</string>
+
+    <string name="txt_client_id">boazsX_pFBlM8ktde6kivQ</string>
+    <string name="txt_client_secret">mCkatsdEVv9ft84q0WkwwAXt6RNFb93MLkpiEnHlVJyG6ivIw4hVtLeCNHV1Mbr0</string>
+
+    <string name="txt_msg_no_internet_available">No Internet Available!!</string>
+    <string name="txt_msg_please_try_again">Please Try Again!!</string>
+
+</resources>

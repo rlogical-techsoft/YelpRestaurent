@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217642642153",
+    "project_id": "yelp-restaurant"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217642642153:android:1f75a25d80926f96",
+        "android_client_info": {
+          "package_name": "com.yelprestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217642642153-0mmhfglkk5i95s10i1mfvp7u85cun5st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yelprestaurant",
+            "certificate_hash": "e3e26fd9666399bdcf761caf90e5f6f1229bbe96"
+          }
+        },
+        {
+          "client_id": "217642642153-gski93c3fdehembckpoa3ctt4dmbctc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KSvnYBj9cllxVRg56QIXKyw4By_tKuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

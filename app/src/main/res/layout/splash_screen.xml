@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ContentBgColor"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.yelprestaurant.utils.SquareImageView
+        android:id="@+id/res_icon"
+        android:layout_width="@dimen/_200sdp"
+        android:layout_height="@dimen/_200sdp"
+        android:background="@drawable/res_icon"/>
+
+    <TextView
+        android:id="@+id/txt_find_restaurant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:text="Find Restaurant"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="@dimen/_25sdp"/>
+
+</LinearLayout>
